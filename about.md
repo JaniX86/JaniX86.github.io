@@ -1,11 +1,20 @@
 ---
 layout: page
-title: About
+title: Om mig
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+![alt tag](/pics/jag.png)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Hej,
+lite kort om mig:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+*Namn: Jani Rautiainen
+
+*Ålder: 30år
+
+*Bor: Örebro
+
+*Barn: Ja, tre!
+
+Läser idag <a href="https://lnu.se/program/ngudm/20162/61016/">Utveckling och drift av mjukvarusystem</a> på <a href="https://lnu.se/">Linnéuniversitetet</a>. 
