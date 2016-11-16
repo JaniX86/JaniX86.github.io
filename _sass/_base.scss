@@ -19,13 +19,15 @@ body {
     line-height: $base-line-height;
     font-weight: 300;
     color: $text-color;
-    background: url("/pics/background.png") no-repeat top center;
+    background: url("/pics/background.png") no-repeat fixed top center;
     -webkit-text-size-adjust: 100%;
 }
 
 #main {
-    margin-left: 12.5%;
-    margin-right: 12.5%;
+    margin-left: 22.5%;
+    margin-right: 22.5%;
+    margin-bottom: 2.5%;
+    background-color: white;
 
         @include media-query($on-laptop) {
                 margin-left: 0;

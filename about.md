@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om mig
-permalink: /about/
+permalink: /ommig/
 ---
 
 ![alt tag](/pics/jag.png)
