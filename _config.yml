@@ -4,7 +4,7 @@ email: JaniX86@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Här får ni följa mig mot mina mål i livet som student.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://janix86.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username: JaniX86
 
